@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="" section_id="ab5308882f535110aa1d2d6df699b6df" sys_domain="global" table="x_849656_faq_frequent_question" version="3" view="">
+    <sys_ui_section caption="" section_id="bae09cc42f935110aa1d2d6df699b65f" sys_domain="global" table="x_849656_faq_frequent_question" version="3" view="workspace">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-11-16 06:31:43</sys_created_on>
-            <sys_id>37c01cc42f935110aa1d2d6df699b6c4</sys_id>
+            <sys_created_on>2022-11-16 06:32:12</sys_created_on>
+            <sys_id>03e09cc42f935110aa1d2d6df699b664</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_849656_faq_frequent_question" sys_domain="global" view="Default view">ab5308882f535110aa1d2d6df699b6df</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_849656_faq_frequent_question" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">bae09cc42f935110aa1d2d6df699b65f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-11-16 06:31:43</sys_updated_on>
+            <sys_updated_on>2022-11-16 06:32:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>hint</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-11-16 06:31:43</sys_created_on>
-            <sys_id>fbc01cc42f935110aa1d2d6df699b6c4</sys_id>
+            <sys_created_on>2022-11-16 06:32:12</sys_created_on>
+            <sys_id>83e09cc42f935110aa1d2d6df699b664</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_849656_faq_frequent_question" sys_domain="global" view="Default view">ab5308882f535110aa1d2d6df699b6df</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_849656_faq_frequent_question" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">bae09cc42f935110aa1d2d6df699b65f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-11-16 06:31:43</sys_updated_on>
+            <sys_updated_on>2022-11-16 06:32:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>question</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-11-16 06:31:43</sys_created_on>
-            <sys_id>7fc01cc42f935110aa1d2d6df699b6c4</sys_id>
+            <sys_created_on>2022-11-16 06:32:12</sys_created_on>
+            <sys_id>07e09cc42f935110aa1d2d6df699b664</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_849656_faq_frequent_question" sys_domain="global" view="Default view">ab5308882f535110aa1d2d6df699b6df</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_849656_faq_frequent_question" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">bae09cc42f935110aa1d2d6df699b65f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-11-16 06:31:43</sys_updated_on>
+            <sys_updated_on>2022-11-16 06:32:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>response</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-11-16 06:31:43</sys_created_on>
-            <sys_id>ffc01cc42f935110aa1d2d6df699b6c4</sys_id>
+            <sys_created_on>2022-11-16 06:32:12</sys_created_on>
+            <sys_id>87e09cc42f935110aa1d2d6df699b664</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_849656_faq_frequent_question" sys_domain="global" view="Default view">ab5308882f535110aa1d2d6df699b6df</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_849656_faq_frequent_question" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">bae09cc42f935110aa1d2d6df699b65f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-11-16 06:31:43</sys_updated_on>
+            <sys_updated_on>2022-11-16 06:32:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -63,19 +63,19 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-11-16 05:32:59</sys_created_on>
+            <sys_created_on>2022-11-16 06:32:12</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ab5308882f535110aa1d2d6df699b6df</sys_id>
+            <sys_id>bae09cc42f935110aa1d2d6df699b65f</sys_id>
             <sys_name>x_849656_faq_frequent_question</sys_name>
             <sys_overrides/>
             <sys_package display_value="FAQ" source="x_849656_faq">d75d4ba32f031110aa1d2d6df699b6ab</sys_package>
             <sys_policy/>
             <sys_scope display_value="FAQ">d75d4ba32f031110aa1d2d6df699b6ab</sys_scope>
-            <sys_update_name>sys_ui_section_ab5308882f535110aa1d2d6df699b6df</sys_update_name>
+            <sys_update_name>sys_ui_section_bae09cc42f935110aa1d2d6df699b65f</sys_update_name>
             <sys_user/>
-            <title>true</title>
-            <view display_value="Default view" name="NULL">Default view</view>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">11739aa0f98211108c8bd16244dfe72b</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>
