@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 05:32:25</sys_created_on>
+        <sys_id>d73300c82f535110aa1d2d6df699b616</sys_id>
+        <sys_name>x_849656_faq_frequent_question.x_849656_faq.user</sys_name>
+        <sys_package display_value="FAQ" source="x_849656_faq">d75d4ba32f031110aa1d2d6df699b6ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FAQ">d75d4ba32f031110aa1d2d6df699b6ab</sys_scope>
+        <sys_security_acl display_value="x_849656_faq_frequent_question">533300c82f535110aa1d2d6df699b614</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d73300c82f535110aa1d2d6df699b616</sys_update_name>
+        <sys_user_role display_value="x_849656_faq.user" name="x_849656_faq.user">a35d4ba32f031110aa1d2d6df699b6ce</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
